@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Carregar o dataset
-file_path = 'C:\\Users\\Pichau\\Documents\\earthquake_data_tsunami.csv'  # Substitua pelo caminho correto
+file_path = 'C:\\Users\\matheus\\Documents\\earthquake_data_tsunami.csv'  
 df = pd.read_csv(file_path)
 
 # 1. Informações gerais sobre o dataset
